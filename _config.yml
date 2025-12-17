@@ -3,5 +3,7 @@ description: Portfolio Website
 
 remote_theme: "mmistakes/minimal-mistakes"
 
+baseurl: "/alexanderisiani.github.io"
+
 plugins:
   - jekyll-include-cache
