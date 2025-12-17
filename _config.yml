@@ -4,22 +4,23 @@ description: Portfolio Website
 remote_theme: "mmistakes/minimal-mistakes"
 
 baseurl: "/alexanderisiani.github.io"
+url: "https://thealisiani94.github.io"
 
 plugins:
   - jekyll-include-cache
-  
+
 navigation:
   - title: "Overview"
-    url: "/alexanderisiani.github.io/"
+    url: "/"
   - title: "Research"
-    url: "/alexanderisiani.github.io/research/"
+    url: "/research/"
   - title: "Teaching"
-    url: "/alexanderisiani.github.io/teaching/"
+    url: "/teaching/"
   - title: "Engagements"
-    url: "/alexanderisiani.github.io/engagements/"
+    url: "/engagements/"
   - title: "Honors"
-    url: "/alexanderisiani.github.io/honors/"
+    url: "/honors/"
   - title: "Creative"
-    url: "/alexanderisiani.github.io/creative/"
+    url: "/creative/"
   - title: "CV"
-    url: "/alexanderisiani.github.io/cv/"
+    url: "/cv/"
