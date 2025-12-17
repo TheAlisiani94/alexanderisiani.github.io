@@ -1,0 +1,7 @@
+title: Alexander Isiani
+description: Portfolio Website
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
