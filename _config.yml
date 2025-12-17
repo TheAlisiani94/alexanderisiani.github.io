@@ -7,3 +7,19 @@ baseurl: "/alexanderisiani.github.io"
 
 plugins:
   - jekyll-include-cache
+  
+navigation:
+  - title: "Overview"
+    url: "/alexanderisiani.github.io/"
+  - title: "Research"
+    url: "/alexanderisiani.github.io/research/"
+  - title: "Teaching"
+    url: "/alexanderisiani.github.io/teaching/"
+  - title: "Engagements"
+    url: "/alexanderisiani.github.io/engagements/"
+  - title: "Honors"
+    url: "/alexanderisiani.github.io/honors/"
+  - title: "Creative"
+    url: "/alexanderisiani.github.io/creative/"
+  - title: "CV"
+    url: "/alexanderisiani.github.io/cv/"
